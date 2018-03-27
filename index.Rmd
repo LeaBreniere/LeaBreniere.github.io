@@ -7,25 +7,29 @@ Here is my test website.
 ## Pictures
 
 Let's try to put a picture:
-![My cat](P1030058.JPG)
+![An origami realization](P1030058.JPG)
 
 
 ## Links
 
 Let's try to put a link:
-[My website](https://origamilea.wordpress.com)
+[My origami website](https://origamilea.wordpress.com)
 
 
 ## Lists
 
 Don't forget:
+
 * To visit the following pages on my website:
-  + [The maths page](https://origamilea.wordpress.com/category/mathematiques/)
-  + [The links page](https://origamilea.wordpress.com/category/liens/)
+    + [The maths page](https://origamilea.wordpress.com/category/mathematiques/)
+    + [The links page](https://origamilea.wordpress.com/category/liens/)
 * To leave a comment!
 
 
 ## R code
 
+```{r}
+2+2
+```
 
 
